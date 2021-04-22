@@ -18,7 +18,7 @@ It is similar to a business card.
 
 
 
-### How can I display your business card?
+### How can one display the business card?
 
 Enter the following command.
 
