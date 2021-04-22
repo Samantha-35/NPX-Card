@@ -13,11 +13,11 @@ const boxen = require("boxen");
 // Text + chalk definitions
 const data = {
     name: chalk.blue("             Samantha"),
-    handle: chalk.white(""),
+    handle: chalk.white("***"),
     work: chalk.green(" Web dev learner at BeCode.org"),
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("umg_rw"),
     npm: chalk.gray("https://npmjs.com/") + chalk.red("~umg"),
-    github: chalk.gray("https://github.com/Samantha-35?tab=repositories") + chalk.green("samantha-35"),
+    github: chalk.gray("https://github.com/Samantha-35?tab=repositories/") + chalk.green("samantha-35"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("Samantha"),
     web: chalk.cyan("https://umg.me"),
     npx: chalk.red("npx") + " " + chalk.white("umg_86"),
