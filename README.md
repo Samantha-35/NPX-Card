@@ -5,7 +5,7 @@
 <p>
 
 
-### 🏠 [Homepage repositories](https://github.com/Samantha-35/NPX-Card)
+### 🏠 [Homepage repositories](https://github.com/Samantha-35?tab=repositories)
 
 ### What is the point of this card?
 It is similar to a business card.
