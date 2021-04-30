@@ -30,6 +30,9 @@ $  npx @umg_86/npx-card
 * get familiar with boxen
 * get familiar with package.json
 
+### My project's link :
+https://samantha-35.github.io/NPX-Card/
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
